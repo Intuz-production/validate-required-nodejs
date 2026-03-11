@@ -1,4 +1,7 @@
-<h1>Introduction</h1>
+## About Intuz
+This library is maintained by [Intuz](https://www.intuz.com) — an AI-first software development company specializing in [custom software development](https://www.intuz.com/software-development)
+and [AI development services](https://www.intuz.com/ai-development).
+<br><br>
 
 INTUZ is presenting an interesting NodeJs component to validate your REST APIs. It helps to validate required and missing request parameters by just passing array of required parameters in the component function.
 
